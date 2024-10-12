@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>生日快乐</title>
+<style>
+  body {
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    background-color: #f7f7f7;
+    padding: 20px;
+  }
+  .wrapper {
+    max-width: 600px;
+    margin: auto;
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+  }
+  .gif {
+    width: 100%;
+    margin-top: 20px;
+  }
+</style>
+</head>
+<body>
+<div class="wrapper">
+  <h1>🎉 生日快乐，亲爱的姐姐！🎉</h1>
+  <p>愿你成为自己的太阳，无需借谁的光，热爱世间万物，无最爱，无例外。</p >
+  <p>做自己的女王，不卑不亢，不慌不忙！</p >
+  <p>不辜负时间的馈赠，努力活成自己喜欢的样子！</p >
+  < img src="https://i.imgur.com/7U4gRZb.gif" alt="Happy Birthday GIF" class="gif">
+  <audio controls autoplay loop>
+    <source src="https://www.example.com/happy_birthday.mp3" type="audio/mpeg">
+    您的浏览器不支持 audio 元素。
+  </audio>
+  <p>💕 我亲爱的姐姐，生日快乐呀~ 💕</p >
+</div>
+</body>
+</html>
